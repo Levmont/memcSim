@@ -6,4 +6,5 @@ def self.start(port)
 
 
 #Opens given server ready for use
+#Communication with users ( Client )
 def serverOpen(serv)
