@@ -4,8 +4,11 @@ memcSym is a simple ruby server that simulates Memcached with basic comands
 
 ## Files
 memcSym.rb           -  Front end of server
+
 filer.rb             -  Back end of the server
+
 code mods/memcSym.h  -  Description of memcSym.rb code
+
 code mods/Filer.h    -  Description of filer.rb code 
 
 ## Usage
