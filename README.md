@@ -25,7 +25,7 @@ tester.serverOpen(tester)
  - replace
  - append
  - prepend
- - cas
+ - cas 
 head to https://lzone.de/cheat-sheet/memcached for command specifications
 
 ## Author
